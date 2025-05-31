@@ -8,7 +8,7 @@ Pada episode serial anime "BanG Dream! Ave Mujica" tempo lalu, "#3: Quid faciam?
 
 Di akhir episode, kita juga dapat simpulkan bahwa Mutsumi dan Mortis adalah identitas yang terpisah, dan Mortis dapat digambarkan sebagai alter-ego, karena orang yang dipanggil Mutsumi sebagai Mortis tampak jauh lebih ekstrovert, lancar berbicara, dan jauh lebih bahagia, jika dibandingkan dengan Mutsumi sendiri.
 
-Dalam dunia psikologi, yang dialami Mutsumi ini dapat dikaitkan dengan dissociative identity disorder (DID, gangguan identitas disosiatif). DID adalah gangguan kejiwaan yang disebabkan oleh pengalaman traumatis yang cukup ekstrem ketika masa kanak-kanak atau remaja dan terjadi berulang kali yang mengakibatkan terbentuknya dua atau lebih kepribadian yang berbeda,  dalam kasus ini Mutsumi dan Mortis.
+Dalam dunia psikologi, yang dialami Mutsumi ini dapat dikaitkan dengan _dissociative identity disorder_ (DID, gangguan identitas disosiatif). DID adalah gangguan kejiwaan yang disebabkan oleh pengalaman traumatis yang cukup ekstrem ketika masa kanak-kanak atau remaja dan terjadi berulang kali yang mengakibatkan terbentuknya dua atau lebih kepribadian yang berbeda,  dalam kasus ini Mutsumi dan Mortis.
 
 Gejala-gejala dari gangguan ini adalah:
 - Disosiasi atau perasaan seperti terlepas dari dunia di sekitar.
