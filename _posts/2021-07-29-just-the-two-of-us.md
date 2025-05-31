@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Resensi Manga "Just the Two of Us" Karya Akemi Yoshimura
-date:   2025-05-31 14:30:29 +0700
+date:   2021-07-29
 categories: blog
 ---
 <img src="/media/FB_IMG_17381234027759172.jpg" width="300" alt="buku"/>
