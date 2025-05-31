@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Resensi Manga "Just the Two of Us" Karya Akemi Yoshimura"
-date:   2021-07-29 14:30:29 +0700
-categories: blog
+date:   2021-07-29
+categories: jekyll update
 ---
 
 <img src="/media/FB_IMG_17381234027759172.jpg" width="300" alt="buku"/>
