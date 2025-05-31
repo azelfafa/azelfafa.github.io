@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ave Mujica: Mutsumi dan Dissociative Identity Disorder
+title:  "Ave Mujica: Mutsumi dan Dissociative Identity Disorder"
 date:   2025-01-20
 categories: blog
 ---
