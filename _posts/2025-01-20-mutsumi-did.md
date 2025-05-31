@@ -1,5 +1,9 @@
-## Ave Mujica: Mutsumi dan Dissociative Identity Disorder
-
+---
+layout: post
+title:  Ave Mujica: Mutsumi dan Dissociative Identity Disorder
+date:   2025-01-20
+categories: blog
+---
 Pada episode serial anime "BanG Dream! Ave Mujica" tempo lalu, "#3: Quid faciam?" kita telah disuguhkan dengan berbagai peristiwa yang berpusat kepada Mutsumi. Dari episode ini, Mutsumi digambarkan sebagai gadis yang sangat emosional, dibuktikan dengan betapa ia terpengaruh akibat tindakan Nyamu saat penampilan Ave Mujica di Budokan. Efek tindakan Nyamu ini begitu ekstrem bagi Mutsumi, sampai-sampai ia tampak tak bisa berjalan hingga akhirnya mengacaukan tur pertama Ave Mujica setelah di Budokan.
 
 Di akhir episode, kita juga dapat simpulkan bahwa Mutsumi dan Mortis adalah identitas yang terpisah, dan Mortis dapat digambarkan sebagai alter-ego, karena orang yang dipanggil Mutsumi sebagai Mortis tampak jauh lebih ekstrovert, lancar berbicara, dan jauh lebih bahagia, jika dibandingkan dengan Mutsumi sendiri.
