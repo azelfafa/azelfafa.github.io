@@ -1,5 +1,9 @@
-## Resensi Manga "Just the Two of Us" Karya Akemi Yoshimura
-
+---
+layout: post
+title:  "Resensi Manga "Just the Two of Us" Karya Akemi Yoshimura"
+date:   2021-07-29
+categories: blog
+---
 <img src="/media/FB_IMG_17381234027759172.jpg" width="300" alt="buku"/>
 
 Manga "<i>Just the Two of Us</i>" (ふたりぼっち, <i>futaribotchi</i>) karya Akemi Yoshimura menceritakan tentang Yachiyo, seorang wanita 20-an tahun, yang secara tidak sengaja menemukan kucing hanyut di sungai saat perjalanan pulang dari panti jompo tempat ia bekerja. Dia memutuskan untuk merawat dan tinggal bersama kucing itu jika pemiliknya tak ditemukan. Namun tak disangka, tiba-tiba muncul Shikishima, seorang pria setengah "hantu" yang "sepaket" dengan kucing itu.
