@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 ---
 <img src="/media/IMG_20250129_213324.jpg">
 
