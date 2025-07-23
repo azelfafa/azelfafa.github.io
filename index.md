@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  Beranda
 ---
 <img src="/media/IMG_20250129_213324.jpg">
 
