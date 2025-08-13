@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Baca Novel: "Funiculi Funicula"
+title:  "Baca Novel: Funiculi Funicula"
 date:   2025-07-21
 categories: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Baca Manga: "Just the Two of Us"
+title:  "Baca Manga: Just the Two of Us"
 date:   2021-07-29
 categories: blog
 ---
