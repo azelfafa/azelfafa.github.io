@@ -29,9 +29,10 @@ instagram_username: "adiazelfafage"
 github_username: "rinanatsu"
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: riggraz/no-style-please
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
