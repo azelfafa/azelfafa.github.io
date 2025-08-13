@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Resensi Novel "Funiculi Funicula" Karya Toshikazu Kawaguchi
-date:   2024-08-05
+title:  Baca Novel: "Funiculi Funicula"
+date:   2025-07-21
 categories: blog
 ---
 <img src="/media/FB_IMG_17381234122726294.jpg" width="300" alt="buku"/>
