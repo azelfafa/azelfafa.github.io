@@ -29,10 +29,9 @@ instagram_username: "adiazelfafage"
 github_username: "rinanatsu"
 
 # Build settings
-remote_theme: riggraz/no-style-please
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
