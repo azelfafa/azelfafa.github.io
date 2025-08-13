@@ -29,7 +29,7 @@ instagram_username: "adiazelfafage"
 github_username: "rinanatsu"
 
 # Build settings
-theme: minima
+theme: jekyll-shell-theme
 plugins:
   - jekyll-feed
 
