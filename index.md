@@ -1,5 +1,5 @@
 ---
-title: /
+title: /beranda
 layout: home
 permalink: /
 ---
