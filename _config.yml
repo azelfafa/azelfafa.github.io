@@ -28,6 +28,14 @@ twitter_username: "rinanatsu"
 instagram_username: "adiazelfafage"
 github_username: "rinanatsu"
 
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+
+footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+
 # Build settings
 theme: jekyll-theme-console
 plugins:
