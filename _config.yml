@@ -18,23 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Azelfafage
-email: adinatadzaky775@gmail.com
-description: Kumpulan tulisan pribadi
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: "azelfafage"
-twitter_username: "rinanatsu"
-instagram_username: "adiazelfafage"
-github_username: "rinanatsu"
+title: 'azelfafage'
+description: "test."
+#baseurl: "/jekyll-theme-console-demo-dark"
+#url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
   - about.md
+  - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 theme: jekyll-theme-console
