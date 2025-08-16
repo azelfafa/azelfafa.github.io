@@ -1,9 +1,10 @@
 ---
 layout: default 
 title: /arsip
-permalink: /arsip
+permalink: /arsip/
 ---
 
+test
 <ul>
     {%- for post in site.posts -%}
     <li>
