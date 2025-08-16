@@ -31,7 +31,7 @@ header_pages:
 
 style: dark
 
-footer: 'Dibuat menggunakan Jekyll.<br>Teks tersedia di bawah lisensi <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC-BY-SA 4.0</a>, kecuali dinyatakan lain.'
+footer: 'Dibuat menggunakan <a href="https://jekyllrb.com/">Jekyll</a>.<br>Teks tersedia di bawah lisensi <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC-BY-SA 4.0</a>, kecuali dinyatakan lain.'
 
 # Build settings
 theme: jekyll-theme-console
