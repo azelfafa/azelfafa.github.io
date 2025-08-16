@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Baca Novel: Funiculi Funicula"
-date:   2025-07-21
+date:   2024-08-05
 categories: blog
 ---
+<figure>
 <img src="/media/FB_IMG_17381234122726294.jpg" width="300" alt="buku"/>
+ <figcaption>Sampul depan "<i>Funiculi Funicula: Before the Coffe Gets Cold</i>."</figcaption>
+</figure>
 
 Setiap orang pasti memiliki masa lalu, baik menyenangkan maupun tidak. Karena masa lalu merupakan masa-masa yang sudah dilewati, maka terkadang ada beberapa orang yang mengalami penyesalan hidup karena merasa menyia-nyiakan masa itu.
 

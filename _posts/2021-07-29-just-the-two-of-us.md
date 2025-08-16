@@ -4,7 +4,10 @@ title:  "Baca Manga: Just the Two of Us"
 date:   2021-07-29
 categories: blog
 ---
+<figure>
 <img src="/media/FB_IMG_17381234027759172.jpg" width="300" alt="buku"/>
+ <figcaption>Sampul depan "<i>Just the Two of Us</i>."</figcaption>
+</figure>
 
 Manga "<i>Just the Two of Us</i>" (ふたりぼっち, <i>futaribotchi</i>) karya Akemi Yoshimura menceritakan tentang Yachiyo, seorang wanita 20-an tahun, yang secara tidak sengaja menemukan kucing hanyut di sungai saat perjalanan pulang dari panti jompo tempat ia bekerja. Dia memutuskan untuk merawat dan tinggal bersama kucing itu jika pemiliknya tak ditemukan. Namun tak disangka, tiba-tiba muncul Shikishima, seorang pria setengah "hantu" yang "sepaket" dengan kucing itu.
 
