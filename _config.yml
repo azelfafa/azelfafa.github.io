@@ -27,6 +27,7 @@ header_pages:
   - index.md
   - about.md
   - contact.md
+  - archive.md
 
 style: dark
 
