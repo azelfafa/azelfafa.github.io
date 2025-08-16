@@ -12,3 +12,13 @@ Terima kasih bagi yang sudah berkenan membaca isi blog ini! Saya harap blog ini 
 
 <a href="/tentang">Tentang Saya</a> • <a href="/lain">Serba-serbi</a> • <a href="/archive">Arsip</a>
 <link href="https://github.com/rinanatsu" rel="me">
+
+# Log
+<ul>
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = "%d-%m-%Y" -%}
+      [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
