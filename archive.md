@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arsip
+title: /arsip
 permalink: /arsip
 ---
 
