@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /kontak
-permalink: /kontak/
+permalink: /kontak
 ---
 
 # test
