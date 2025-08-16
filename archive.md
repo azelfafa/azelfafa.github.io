@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arsip
+permalink: /arsip
 ---
 
 {% for tag in site.tags %}
