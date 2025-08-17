@@ -22,3 +22,9 @@ a {
   text-decoration: none;
   color: #52a6f5;
 }
+
+@media only screen and (max-device-width: 500px) {
+  * {
+    font-size: 14px !important;
+  }
+}
