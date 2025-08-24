@@ -1,5 +1,5 @@
 ---
-title: /beranda
+title: Azelfafage
 layout: home
 permalink: /
 ---

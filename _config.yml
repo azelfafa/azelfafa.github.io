@@ -25,8 +25,8 @@ description: "test."
 
 header_pages:
   - index.md
-  - about.md
   - contact.md
+  - resume.md
   - archive.md
 
 style: dark
