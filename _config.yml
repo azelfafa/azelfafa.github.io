@@ -33,10 +33,13 @@ style: dark
 
 footer: 'Dibuat menggunakan <a href="https://jekyllrb.com/">Jekyll</a>.<br>Teks tersedia di bawah lisensi <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC-BY-SA 4.0</a>, kecuali dinyatakan lain.'
 
+gem 'jekyll-seo-tag'
+
 # Build settings
 theme: jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
