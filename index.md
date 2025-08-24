@@ -3,7 +3,10 @@ title: /beranda
 layout: home
 permalink: /
 ---
-<title>Azelfafage</title>
+<head>
+ <title>Azelfafage</title>
+</head>
+
 # Azelfafage ♪(´▽｀)
 Seorang manusia biasa yang gemar berselancar ria di internet. Suka Jejepangan (anime, manga, dll.) dan sesuatu yang berbau teknologi. Sukarelawan di Wikipedia dan berbagai proyek Wikimedia lainnya. Hobi menulis dan menggambar.
 
